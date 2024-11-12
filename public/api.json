@@ -1,0 +1,186 @@
+{
+  "formateurs": [
+    {
+      "id": "17000",
+      "nom": "Dupont",
+      "prenom": "Jean",
+      "secteur": "Digital",
+      "modules": [
+        {
+          "code": "M202_F01",
+          "intitule": "M202",
+          "mhSynthese": "15 H 00",
+          "mhP": "60 H 00",
+          "mhTotal": "75 H 00"
+        },
+        {
+          "code": "M204_F01",
+          "intitule": "M204",
+          "mhSynthese": "20 H 00",
+          "mhP": "80 H 00",
+          "mhTotal": "100 H 00"
+        },
+        {
+          "code": "M205_F01",
+          "intitule": "M205",
+          "mhSynthese": "18 H 00",
+          "mhP": "72 H 00",
+          "mhTotal": "90 H 00"
+        }
+      ],
+      "totalMasseHoraire": "365 H 00"
+    },
+    {
+      "id": "17001",
+      "nom": "Martin",
+      "prenom": "Sophie",
+      "secteur": "Finance",
+      "modules": [
+        {
+          "code": "F301_F01",
+          "intitule": "F301",
+          "mhSynthese": "25 H 00",
+          "mhP": "50 H 00",
+          "mhTotal": "75 H 00"
+        },
+        {
+          "code": "F302_F01",
+          "intitule": "F302",
+          "mhSynthese": "30 H 00",
+          "mhP": "70 H 00",
+          "mhTotal": "100 H 00"
+        },
+        {
+          "code": "F303_F01",
+          "intitule": "F303",
+          "mhSynthese": "20 H 00",
+          "mhP": "80 H 00",
+          "mhTotal": "100 H 00"
+        }
+      ],
+      "totalMasseHoraire": "275 H 00"
+    },
+    {
+      "id": "17002",
+      "nom": "Lemoine",
+      "prenom": "Clara",
+      "secteur": "Marketing",
+      "modules": [
+        {
+          "code": "MKT401_F01",
+          "intitule": "MKT401",
+          "mhSynthese": "10 H 00",
+          "mhP": "60 H 00",
+          "mhTotal": "70 H 00"
+        },
+        {
+          "code": "MKT402_F01",
+          "intitule": "MKT402",
+          "mhSynthese": "15 H 00",
+          "mhP": "85 H 00",
+          "mhTotal": "100 H 00"
+        },
+        {
+          "code": "MKT403_F01",
+          "intitule": "MKT403",
+          "mhSynthese": "25 H 00",
+          "mhP": "75 H 00",
+          "mhTotal": "100 H 00"
+        }
+      ],
+      "totalMasseHoraire": "270 H 00"
+    },
+    {
+      "id": "17003",
+      "nom": "Moreau",
+      "prenom": "Paul",
+      "secteur": "Agro-alimentaire",
+      "modules": [
+        {
+          "code": "AG501_F01",
+          "intitule": "AG501",
+          "mhSynthese": "30 H 00",
+          "mhP": "50 H 00",
+          "mhTotal": "80 H 00"
+        },
+        {
+          "code": "AG502_F01",
+          "intitule": "AG502",
+          "mhSynthese": "35 H 00",
+          "mhP": "65 H 00",
+          "mhTotal": "100 H 00"
+        }
+      ],
+      "totalMasseHoraire": "180 H 00"
+    },
+    {
+      "id": "17004",
+      "nom": "Garnier",
+      "prenom": "Pierre",
+      "secteur": "Technologie",
+      "modules": [
+        {
+          "code": "T101_F01",
+          "intitule": "T101",
+          "mhSynthese": "20 H 00",
+          "mhP": "60 H 00",
+          "mhTotal": "80 H 00"
+        },
+        {
+          "code": "T102_F01",
+          "intitule": "T102",
+          "mhSynthese": "25 H 00",
+          "mhP": "75 H 00",
+          "mhTotal": "100 H 00"
+        }
+      ],
+      "totalMasseHoraire": "180 H 00"
+    },
+    {
+      "id": "17005",
+      "nom": "Dubois",
+      "prenom": "Élise",
+      "secteur": "Éducation",
+      "modules": [
+        {
+          "code": "E001_F01",
+          "intitule": "E001",
+          "mhSynthese": "15 H 00",
+          "mhP": "45 H 00",
+          "mhTotal": "60 H 00"
+        },
+        {
+          "code": "E002_F01",
+          "intitule": "E002",
+          "mhSynthese": "20 H 00",
+          "mhP": "80 H 00",
+          "mhTotal": "100 H 00"
+        }
+      ],
+      "totalMasseHoraire": "160 H 00"
+    },
+    {
+      "id": "17006",
+      "nom": "Charpentier",
+      "prenom": "Lucie",
+      "secteur": "Santé",
+      "modules": [
+        {
+          "code": "S101_F01",
+          "intitule": "S101",
+          "mhSynthese": "30 H 00",
+          "mhP": "40 H 00",
+          "mhTotal": "70 H 00"
+        },
+        {
+          "code": "S102_F01",
+          "intitule": "S102",
+          "mhSynthese": "20 H 00",
+          "mhP": "60 H 00",
+          "mhTotal": "80 H 00"
+        }
+      ],
+      "totalMasseHoraire": "150 H 00"
+    }
+  ]
+}
